@@ -1,5 +1,5 @@
 1 111111111111  MASTER TEST
-2
+2 conflict
 3 333333
 4 444444
 5 user1 user2
